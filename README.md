@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Hatima!
 
-<!--
-**hatima-data/hatima-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Analyst specializing in Python, Pandas, and SQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- 🐍 Python | Pandas | Numpy
+- 🗄️ SQL | PostgreSQL
+- 📊 Matplotlib | Seaborn
+- 🧹 Data Cleaning | Data Analysis
+
+---
+
+## 📂 Projects
+
+### 🎬 Netflix Data Analysis
+- Analyzed Netflix dataset using Python and Pandas
+- Created visualizations with Seaborn and Matplotlib
+- [View Project](https://github.com/hatima-data/Netflix-data-analysis)
+
+### 🛒 E-commerce SQL Analysis
+- Analyzed online shop data using PostgreSQL
+- Used JOINs, GROUP BY, Subqueries, CASE WHEN
+- [View Project](https://github.com/hatima-data/SQL-data-analysis-project)
+
+---
+
+## 📬 Contact
+- 📧 muratovahatima@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/hatima-muratova-ba5399408)
+- 🔗 [Fiverr](https://www.fiverr.com/hatima_data)
