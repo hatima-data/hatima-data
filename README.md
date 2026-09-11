@@ -14,6 +14,11 @@
 ---
 
 ## 📂 Projects
+### 🛍️ Direct Sales Analysis
+- Analyzed retail shop direct sales data using Python and Pandas.
+- Identified key sales patterns and customer purchase insights.
+- [View Project](https://github.com/hatima-data/shop-direct-sale-analysis)
+
 
 ### 🎬 Netflix Data Analysis
 - Analyzed Netflix dataset using Python and Pandas
