@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hatima!
 
-💡 Data Analyst specializing in Python, Pandas, and SQL
+💡 Data Analyst specializing in Python, Pandas, Power BI, Exel and SQL
 
 ---
 
