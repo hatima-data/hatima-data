@@ -7,6 +7,7 @@
 ## 🔧 Skills
 - 🐍 Python | Pandas | Numpy
 - 🗄️ SQL | PostgreSQL
+- 📊 Power BI | Excel
 - 📊 Matplotlib | Seaborn
 - 🧹 Data Cleaning | Data Analysis
 
